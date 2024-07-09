@@ -50,4 +50,12 @@ button {
     font-weight: 1000;
     color: gold;
     -webkit-text-stroke: 0.3px red;
+    text-align: center;
+}
+
+#output > p{
+    color: orangered;
+    font-size: 0.4em;
+    -webkit-text-stroke: 0;
+    font-weight: 100;
 }
