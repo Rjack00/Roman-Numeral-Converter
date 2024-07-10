@@ -60,3 +60,21 @@ button {
     -webkit-text-stroke: 0;
     font-weight: 100;
 }
+
+.info-container {
+    border: 1px solid silver;
+    border-radius: 20px;
+    padding: 30px;
+    width: 400px;
+    text-align: center;
+    margin: 100px 0 50px 0;
+    background-color: black;
+}
+
+figcaption {
+    margin: 5px 0;
+}
+
+a {
+    color: yellow
+}
